@@ -8,4 +8,4 @@ Introducing the City Index Project, your ticket to Seoul's dynamic cultural scen
 
 ### Meet the Team Here!
 - Soeun Jeon: Infographic Designer
-- Sungha Kang: Data Analyst
+- Sungha Kang: Data Analyst, Web Developer
